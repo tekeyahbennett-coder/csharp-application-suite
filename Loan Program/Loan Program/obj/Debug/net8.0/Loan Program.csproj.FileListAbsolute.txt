@@ -1,0 +1,14 @@
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\obj\Debug\net8.0\Loan Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\obj\Debug\net8.0\Loan Program.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\obj\Debug\net8.0\Loan Program.AssemblyInfo.cs
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\obj\Debug\net8.0\Loan Program.csproj.CoreCompileInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\bin\Debug\net8.0\Loan Program.exe
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\bin\Debug\net8.0\Loan Program.deps.json
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\bin\Debug\net8.0\Loan Program.runtimeconfig.json
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\bin\Debug\net8.0\Loan Program.dll
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\bin\Debug\net8.0\Loan Program.pdb
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\obj\Debug\net8.0\Loan Program.dll
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\obj\Debug\net8.0\refint\Loan Program.dll
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\obj\Debug\net8.0\Loan Program.pdb
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\obj\Debug\net8.0\Loan Program.genruntimeconfig.cache
+C:\Users\tekey\Documents\C# Summer '25\Loan Program\Loan Program\obj\Debug\net8.0\ref\Loan Program.dll

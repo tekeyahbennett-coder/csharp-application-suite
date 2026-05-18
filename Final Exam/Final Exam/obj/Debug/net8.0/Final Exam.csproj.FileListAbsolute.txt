@@ -1,0 +1,14 @@
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\obj\Debug\net8.0\Final Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\obj\Debug\net8.0\Final Exam.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\obj\Debug\net8.0\Final Exam.AssemblyInfo.cs
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\obj\Debug\net8.0\Final Exam.csproj.CoreCompileInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\bin\Debug\net8.0\Final Exam.exe
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\bin\Debug\net8.0\Final Exam.deps.json
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\bin\Debug\net8.0\Final Exam.runtimeconfig.json
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\bin\Debug\net8.0\Final Exam.dll
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\bin\Debug\net8.0\Final Exam.pdb
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\obj\Debug\net8.0\Final Exam.dll
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\obj\Debug\net8.0\refint\Final Exam.dll
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\obj\Debug\net8.0\Final Exam.pdb
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\obj\Debug\net8.0\Final Exam.genruntimeconfig.cache
+C:\Users\tekey\Documents\C# Summer '25\Final Exam\Final Exam\obj\Debug\net8.0\ref\Final Exam.dll

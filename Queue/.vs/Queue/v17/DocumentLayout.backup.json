@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tekey\\Documents\\C# Summer \u002725\\Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E119D2D-EB48-43AB-8D1B-53526531E4C7}|Queue\\Queue.csproj|c:\\users\\tekey\\documents\\c# summer \u002725\\queue\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E119D2D-EB48-43AB-8D1B-53526531E4C7}|Queue\\Queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tekey\\Documents\\C# Summer \u002725\\Queue\\Queue\\Program.cs",
+              "RelativeDocumentMoniker": "Queue\\Program.cs",
+              "ToolTip": "C:\\Users\\tekey\\Documents\\C# Summer \u002725\\Queue\\Queue\\Program.cs",
+              "RelativeToolTip": "Queue\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:46:53.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

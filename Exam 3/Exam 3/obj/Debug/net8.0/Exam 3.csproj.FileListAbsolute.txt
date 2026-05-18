@@ -1,0 +1,14 @@
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\obj\Debug\net8.0\Exam 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\obj\Debug\net8.0\Exam 3.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\obj\Debug\net8.0\Exam 3.AssemblyInfo.cs
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\obj\Debug\net8.0\Exam 3.csproj.CoreCompileInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\bin\Debug\net8.0\Exam 3.exe
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\bin\Debug\net8.0\Exam 3.deps.json
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\bin\Debug\net8.0\Exam 3.runtimeconfig.json
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\bin\Debug\net8.0\Exam 3.dll
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\bin\Debug\net8.0\Exam 3.pdb
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\obj\Debug\net8.0\Exam 3.dll
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\obj\Debug\net8.0\refint\Exam 3.dll
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\obj\Debug\net8.0\Exam 3.pdb
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\obj\Debug\net8.0\Exam 3.genruntimeconfig.cache
+C:\Users\tekey\Documents\C# Summer '25\Exam 3\Exam 3\obj\Debug\net8.0\ref\Exam 3.dll

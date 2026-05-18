@@ -1,0 +1,4 @@
+C:\Users\tekey\Documents\C# Summer '25\Exam 2\Exam 2\obj\Debug\net8.0\Exam 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\C# Summer '25\Exam 2\Exam 2\obj\Debug\net8.0\Exam 2.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Exam 2\Exam 2\obj\Debug\net8.0\Exam 2.AssemblyInfo.cs
+C:\Users\tekey\Documents\C# Summer '25\Exam 2\Exam 2\obj\Debug\net8.0\Exam 2.csproj.CoreCompileInputs.cache

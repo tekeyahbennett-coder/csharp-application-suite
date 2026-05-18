@@ -1,0 +1,14 @@
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\obj\Debug\net8.0\Regular Expression for Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\obj\Debug\net8.0\Regular Expression for Validation.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\obj\Debug\net8.0\Regular Expression for Validation.AssemblyInfo.cs
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\obj\Debug\net8.0\Regular Expression for Validation.csproj.CoreCompileInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\bin\Debug\net8.0\Regular Expression for Validation.exe
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\bin\Debug\net8.0\Regular Expression for Validation.deps.json
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\bin\Debug\net8.0\Regular Expression for Validation.runtimeconfig.json
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\bin\Debug\net8.0\Regular Expression for Validation.dll
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\bin\Debug\net8.0\Regular Expression for Validation.pdb
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\obj\Debug\net8.0\Regular Expression for Validation.dll
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\obj\Debug\net8.0\refint\Regular Expression for Validation.dll
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\obj\Debug\net8.0\Regular Expression for Validation.pdb
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\obj\Debug\net8.0\Regular Expression for Validation.genruntimeconfig.cache
+C:\Users\tekey\Documents\C# Summer '25\Regular Expression for Validation\Regular Expression for Validation\obj\Debug\net8.0\ref\Regular Expression for Validation.dll

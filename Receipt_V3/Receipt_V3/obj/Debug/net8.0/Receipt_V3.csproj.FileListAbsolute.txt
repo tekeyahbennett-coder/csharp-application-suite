@@ -1,0 +1,14 @@
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\obj\Debug\net8.0\Receipt_V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\obj\Debug\net8.0\Receipt_V3.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\obj\Debug\net8.0\Receipt_V3.AssemblyInfo.cs
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\obj\Debug\net8.0\Receipt_V3.csproj.CoreCompileInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\bin\Debug\net8.0\Receipt_V3.exe
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\bin\Debug\net8.0\Receipt_V3.deps.json
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\bin\Debug\net8.0\Receipt_V3.runtimeconfig.json
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\bin\Debug\net8.0\Receipt_V3.dll
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\bin\Debug\net8.0\Receipt_V3.pdb
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\obj\Debug\net8.0\Receipt_V3.dll
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\obj\Debug\net8.0\refint\Receipt_V3.dll
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\obj\Debug\net8.0\Receipt_V3.pdb
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\obj\Debug\net8.0\Receipt_V3.genruntimeconfig.cache
+C:\Users\tekey\Documents\C# Summer '25\Receipt_V3\Receipt_V3\obj\Debug\net8.0\ref\Receipt_V3.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tekey\\Documents\\C# Summer \u002725\\Receipt_V3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65F6509B-795A-4823-943B-640E95EC6995}|Receipt_V3\\Receipt_V3.csproj|c:\\users\\tekey\\documents\\c# summer \u002725\\receipt_v3\\receipt_v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F6509B-795A-4823-943B-640E95EC6995}|Receipt_V3\\Receipt_V3.csproj|solutionrelative:receipt_v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tekey\\Documents\\C# Summer \u002725\\Receipt_V3\\Receipt_V3\\Program.cs",
+              "RelativeDocumentMoniker": "Receipt_V3\\Program.cs",
+              "ToolTip": "C:\\Users\\tekey\\Documents\\C# Summer \u002725\\Receipt_V3\\Receipt_V3\\Program.cs",
+              "RelativeToolTip": "Receipt_V3\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:20:49.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

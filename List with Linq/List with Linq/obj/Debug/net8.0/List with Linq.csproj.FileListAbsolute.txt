@@ -1,0 +1,14 @@
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\obj\Debug\net8.0\List with Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\obj\Debug\net8.0\List with Linq.AssemblyInfoInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\obj\Debug\net8.0\List with Linq.AssemblyInfo.cs
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\obj\Debug\net8.0\List with Linq.csproj.CoreCompileInputs.cache
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\bin\Debug\net8.0\List with Linq.exe
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\bin\Debug\net8.0\List with Linq.deps.json
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\bin\Debug\net8.0\List with Linq.runtimeconfig.json
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\bin\Debug\net8.0\List with Linq.dll
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\bin\Debug\net8.0\List with Linq.pdb
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\obj\Debug\net8.0\List with Linq.dll
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\obj\Debug\net8.0\refint\List with Linq.dll
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\obj\Debug\net8.0\List with Linq.pdb
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\obj\Debug\net8.0\List with Linq.genruntimeconfig.cache
+C:\Users\tekey\Documents\C# Summer '25\List with Linq\List with Linq\obj\Debug\net8.0\ref\List with Linq.dll
